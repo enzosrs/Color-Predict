@@ -99,7 +99,7 @@ cd Color-Predict
 
 ls
 
-python3 Color-Predict.py
+python3 Colo-predect.py
 
 ```
 Kali Linux
@@ -122,7 +122,7 @@ cd Color-Predict
 
 ls
 
-python3 Color-Predict.py
+python3 Colo-predect.py
 
 ```
 Parrot OS
@@ -144,7 +144,7 @@ ls
 cd Color-Predict
 
 
-python3 Color-Predict.py
+python3 Colo-predect.py
 ```
 
 
