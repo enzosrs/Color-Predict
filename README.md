@@ -60,7 +60,7 @@ Once you've successfully run the script, follow these steps:
 Here’s how the game will look when you play:
 
 ```bash
-$ python3 color_prediction_game.py
+$ python3 Color-Predict.py
 
 Enter your starting wallet amount: 100
 Welcome to Color Prediction Game!
