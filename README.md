@@ -92,14 +92,13 @@ pkg install git
 
 pkg install python
 
-
-git clone https://github.com/yourusername/ColorPredictionGameBot.git
-
-
-cd ColorPredictionGameBot
+https://github.com/enzosrs/Color-Predict.git
 
 
-python3 color_prediction_game.py
+cd Color-Predict
+
+
+python3 Color-Predict.py
 
 ```
 Kali Linux
@@ -115,13 +114,13 @@ sudo apt install git
 sudo apt install python3
 
 
-git clone https://github.com/yourusername/ColorPredictionGameBot.git
+https://github.com/enzosrs/Color-Predict.git
 
 
-cd ColorPredictionGameBot
+cd Color-Predict
 
 
-python3 color_prediction_game.py
+python3 Color-Predict.py
 
 ```
 Parrot OS
@@ -136,13 +135,13 @@ sudo apt install git
 sudo apt install python3
 
 
-git clone https://github.com/yourusername/ColorPredictionGameBot.git
+https://github.com/enzosrs/Color-Predict.git
 
 
-cd ColorPredictionGameBot
+cd Color-Predict
 
 
-python3 color_prediction_game.py
+python3 Color-Predict.py
 ```
 
 
