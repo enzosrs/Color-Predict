@@ -92,7 +92,7 @@ pkg install git
 
 pkg install python
 
-https://github.com/enzosrs/Color-Predict.git
+git clone https://github.com/enzosrs/Color-Predict.git
 
 
 cd Color-Predict
@@ -115,7 +115,7 @@ sudo apt install git
 sudo apt install python3
 
 
-https://github.com/enzosrs/Color-Predict.git
+git clone https://github.com/enzosrs/Color-Predict.git
 
 
 cd Color-Predict
@@ -137,7 +137,7 @@ sudo apt install git
 sudo apt install python3
 
 
-https://github.com/enzosrs/Color-Predict.git
+git clone https://github.com/enzosrs/Color-Predict.git
 
 ls
 
