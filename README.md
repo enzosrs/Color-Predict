@@ -97,6 +97,7 @@ https://github.com/enzosrs/Color-Predict.git
 
 cd Color-Predict
 
+ls
 
 python3 Color-Predict.py
 
@@ -119,6 +120,7 @@ https://github.com/enzosrs/Color-Predict.git
 
 cd Color-Predict
 
+ls
 
 python3 Color-Predict.py
 
@@ -137,6 +139,7 @@ sudo apt install python3
 
 https://github.com/enzosrs/Color-Predict.git
 
+ls
 
 cd Color-Predict
 
